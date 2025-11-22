@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/OOP_lab_05_exe.dir/src/main.cpp.o -o OOP_lab_05_exe  libOOP_lab_05_lib.a 
